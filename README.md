@@ -27,6 +27,8 @@ The final 90 days are used for validation (or a bounded smaller holdout for shor
 ## Dashboard
 
 After generating the outputs, start the interactive dashboard:
+To view the dashboard, click on link below
+https://bmhpcj4ygeekhwui7igkps.streamlit.app/
 
 ```powershell
 python -m streamlit run dashboard.py
